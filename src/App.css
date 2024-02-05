@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input {
+  margin-right: 10px;
+  padding: 8px;
+  background-color: #2c2c2c;
+  width: auto;
+  height: 32px;
+  border: 1px solid #373737;
+  outline: none;
+  border-radius: 4px;
+  color: #bababa;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-top: 10px;
+}
+
+.li-input {
+  color: #bababa;
+}
+
+h1 {
+  font-size: x-large;
+}
+
+button {
+  margin-left: 8px;
+  padding: 16px;
+  width: auto;
+  outline: none;
+  border: 1px solid #373737;
+  color: #202020;
+  border-radius: 4px;
+}
+
+.add {
+  background-color: #626ed9;
+  color: #202020;
+}
+
+.remove {
+  background-color: #c64444;
+  color: #202020;
+}
