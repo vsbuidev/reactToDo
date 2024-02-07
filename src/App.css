@@ -7,7 +7,7 @@ input {
   margin-right: 10px;
   padding: 8px;
   background-color: #2c2c2c;
-  width: auto;
+  width: 220px;
   height: 32px;
   border: 1px solid #373737;
   outline: none;
@@ -26,6 +26,12 @@ li {
 
 .li-input {
   color: #bababa;
+  width: auto;
+}
+
+.li-input-completed {
+  width: auto;
+  opacity: 0.5;
 }
 
 h1 {
@@ -44,6 +50,16 @@ button {
 
 .add {
   background-color: #626ed9;
+  color: #202020;
+}
+
+.check {
+  background-color: #ecbb5b;
+  color: #202020;
+}
+
+.checked {
+  background-color: #2bd071;
   color: #202020;
 }
 
